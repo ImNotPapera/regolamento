@@ -44,15 +44,15 @@ Ogni utente che spammerà il nome di un altro Canale Youtube, verrà temporaneam
 ৲ GESTIONE ACCOUNT ৲
 
 
-- 4.1 Ogni utente è responsabile del proprio account, in caso di furto ed eventuale danneggiamento nel Canale, lo staff non si assume nessuna responsabilità e non verrà attivata nessuna procedura di risarcimento. Solo in casi occasionali e in base a determinate circostanze è possibile che lo staff prenda provvedimenti.
+- 3.1 Ogni utente è responsabile del proprio account, in caso di furto ed eventuale danneggiamento nel Canale, lo staff non si assume nessuna responsabilità e non verrà attivata nessuna procedura di risarcimento. Solo in casi occasionali e in base a determinate circostanze è possibile che lo staff prenda provvedimenti.
 
 
 ৲ NICKNAME ৲
 
 
-- 5.1 I nickname usati devono essere appropriati, non devono contenere insulti o bestemmie.
+- 4.1 I nickname usati devono essere appropriati, non devono contenere insulti o bestemmie.
 
-- 5.2 E' severamente vietato l'utilizzo di nickname di persone famose, di Youtuber o di membri dello Staff.
+- 4.2 E' severamente vietato l'utilizzo di nickname di persone famose, di Youtuber o di membri dello Staff.
 
 
 *La presente Sottoscrizione del Regolamento, è dovuta dal fatto di mantere un Linguaggio pulito e riservato per ogni Utente, non si avrà la possibilità di creare Giustificazione False per quanto riguarda l'Aggiornamento del Regolamento*
